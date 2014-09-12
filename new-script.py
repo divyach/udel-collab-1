@@ -5,3 +5,4 @@
 # what should be the first analysis in the pipeline
 
 # this is the template to our pipeline
+#example of collaboration
